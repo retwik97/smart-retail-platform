@@ -32,7 +32,7 @@ jobs:
 
      run: |
 
-       cd services/catalog-service
+       cd services/catalog-services
 
        npm install
 
